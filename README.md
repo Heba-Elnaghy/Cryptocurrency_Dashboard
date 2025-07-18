@@ -37,7 +37,8 @@ A modern, real-time cryptocurrency tracking application built with Flutter, feat
 
 ## 📱 Screenshots
 
-_Add screenshots of your app here_
+![Dark Home Screen](assets/images/homedark.jpeg)
+![Lite Home Screen](assets/images/homelite.jpeg)
 
 ## 🏗️ Architecture
 
@@ -75,7 +76,7 @@ lib/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/crypto_dashboard.git
+   git clone https://github.com/Heba-Elnaghy/Cryptocurrency_Dashboard.git
    cd crypto_dashboard
    ```
 
@@ -332,17 +333,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-### Getting Help
-
-- **Documentation**: Check the [Wiki](https://github.com/yourusername/crypto_dashboard/wiki)
-- **Issues**: Report bugs via [GitHub Issues](https://github.com/yourusername/crypto_dashboard/issues)
-- **Discussions**: Join [GitHub Discussions](https://github.com/yourusername/crypto_dashboard/discussions)
 
 ### Contact
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: hebeelnaghy1@gmail.com
+- **LinkedIn**: [Heba Elnaghy](https://eg.linkedin.com/in/heba-elnaghy)
 
 ## 🗺️ Roadmap
 
